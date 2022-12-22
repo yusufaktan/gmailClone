@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_posta"
+        android:icon="@drawable/ic_baseline_email_24"
+        android:title="Posta"/>
+
+    <item
+        android:id="@+id/nav_toplanti"
+        android:icon="@drawable/ic_baseline_videocam_24"
+        android:title="Toplantı"/>
+
+</menu>
